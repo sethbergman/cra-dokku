@@ -1,6 +1,6 @@
 Create React App with Dokku / Heroku Deployment
 
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) [![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/cra-dokku.svg)](https://greenkeeper.io/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
